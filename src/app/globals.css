@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+    
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    
+    button {
+      margin-left: 10px;
+    }
+    
+    div {
+      margin-bottom: 20px;
+    }
+    
